@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1708624227 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+	"menu.h"
+	"validaciones.h"
+	"LinkedList.h"
+	"controller.h"
+
+1708619422 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+
+1708618626 c:\users\avall\onedrive\escritorio\practicaparcial\movies\movies.h
+
+1708616471 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1708616471 c:\users\avall\onedrive\escritorio\practicaparcial\movies\linkedlist.h
+
+1708622426 c:\users\avall\onedrive\escritorio\practicaparcial\movies\menu.h
+
+1708616471 c:\users\avall\onedrive\escritorio\practicaparcial\movies\validaciones.h
+
+1708616471 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1708621371 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1708623993 source:c:\users\avall\onedrive\escritorio\practicaparcial\movies\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+	"menu.h"
+	"validaciones.h"
+	"LinkedList.h"
+	"controller.h"
+
+1708623967 c:\users\avall\onedrive\escritorio\practicaparcial\movies\controller.h
+	"movies.h"
+
